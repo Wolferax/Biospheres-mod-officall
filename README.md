@@ -1,6 +1,6 @@
 # Biospheres Mod for Minecraft
 World generation mod that generates spheres, each containing a different biome, connected by bridges.
-
+Side note i post most of my updates to [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biospheres-mod)
 [Screenshots](https://www.curseforge.com/minecraft/mc-mods/biospheres-mod/screenshots)
 
 ## World generation process
